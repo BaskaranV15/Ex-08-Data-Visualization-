@@ -128,6 +128,8 @@ ax.set_ylabel('Value')
 plt.legend(title='Ship Mode')
 plt.show()
 
+
+
 grouped_data = df.groupby(['Segment', 'Ship Mode','Region'])[['Sales', 'Profit']].mean()
 pivot_data = grouped_data.reset_index().pivot(index=['Segment', 'Ship Mode'], columns='Region', values=['Sales', 'Profit'])
 sns.set_style("whitegrid")

@@ -1,4 +1,4 @@
-# Ex-07-Data-Visualization-
+# Ex-08-Data-Visualization-
 
 ## AIM
 To Perform Data Visualization on the given dataset and save the data to a file. 
@@ -139,3 +139,25 @@ plt.legend(title='Region')
 plt.show()
 ```
 # OUPUT
+![Screenshot 2023-05-30 152710](https://github.com/BaskaranV15/Ex-08-Data-Visualization-/assets/118703522/46d1b03d-d13d-43ff-a218-dd44f2da8490)
+![Screenshot 2023-05-30 152740](https://github.com/BaskaranV15/Ex-08-Data-Visualization-/assets/118703522/1577e459-61f6-47c3-ae5b-85be47f34871)
+![Screenshot 2023-05-30 152756](https://github.com/BaskaranV15/Ex-08-Data-Visualization-/assets/118703522/d9e0d574-8327-4370-bbc7-655b865c2954)
+![Screenshot 2023-05-30 152820](https://github.com/BaskaranV15/Ex-08-Data-Visualization-/assets/118703522/5106d83f-8c65-4cdb-8ad3-7baeb180f6d5)
+![Screenshot 2023-05-30 152831](https://github.com/BaskaranV15/Ex-08-Data-Visualization-/assets/118703522/0eaa593b-33ce-4a52-b671-9ec5100d5a1a)
+![Screenshot 2023-05-30 152840](https://github.com/BaskaranV15/Ex-08-Data-Visualization-/assets/118703522/09080223-fd4a-4c59-993f-c3470ca08626)
+![Screenshot 2023-05-30 152849](https://github.com/BaskaranV15/Ex-08-Data-Visualization-/assets/118703522/b8e3f57f-bb05-484a-a2f6-0c77e7d42f8c)
+![Screenshot 2023-05-30 152858](https://github.com/BaskaranV15/Ex-08-Data-Visualization-/assets/118703522/97d1e8cb-02c1-4f25-abaa-4ff83191c0b2)
+![Screenshot 2023-05-30 152907](https://github.com/BaskaranV15/Ex-08-Data-Visualization-/assets/118703522/4e2588e9-bba2-471e-be9c-f8a6af2a4d6a)
+![Screenshot 2023-05-30 152915](https://github.com/BaskaranV15/Ex-08-Data-Visualization-/assets/118703522/f8d76e51-ea25-4308-bceb-7e90bee40a90)
+![Screenshot 2023-05-30 152956](https://github.com/BaskaranV15/Ex-08-Data-Visualization-/assets/118703522/50ca2e32-0888-4e8e-be33-6a969d3c0a7b)
+![Screenshot 2023-05-30 153007](https://github.com/BaskaranV15/Ex-08-Data-Visualization-/assets/118703522/f8b71872-ae93-481e-8f05-d220a3820faf)
+![Screenshot 2023-05-30 153019](https://github.com/BaskaranV15/Ex-08-Data-Visualization-/assets/118703522/6b9a25b6-1da9-44a7-bcae-f7973445e623)
+![Screenshot 2023-05-30 153025](https://github.com/BaskaranV15/Ex-08-Data-Visualization-/assets/118703522/dc49cdc3-d2ce-45f7-8212-41165b39bf94)
+![Screenshot 2023-05-30 153036](https://github.com/BaskaranV15/Ex-08-Data-Visualization-/assets/118703522/1ad652cb-05a1-4a26-9d3e-a09c3efb2809)
+![Screenshot 2023-05-30 153044](https://github.com/BaskaranV15/Ex-08-Data-Visualization-/assets/118703522/f147a709-4005-443f-8ceb-d5fb7b4d4160)
+![Screenshot 2023-05-30 153053](https://github.com/BaskaranV15/Ex-08-Data-Visualization-/assets/118703522/9e9d2482-0aed-449c-98a6-2e09a4ec709d)
+![Screenshot 2023-05-30 153108](https://github.com/BaskaranV15/Ex-08-Data-Visualization-/assets/118703522/7b2ff585-1208-4d1a-ae4d-ba0c8aeb1806)
+![Screenshot 2023-05-30 153118](https://github.com/BaskaranV15/Ex-08-Data-Visualization-/assets/118703522/a6055a11-38b3-4211-afa8-46aa5eb4f58a)
+![Screenshot 2023-05-30 153127](https://github.com/BaskaranV15/Ex-08-Data-Visualization-/assets/118703522/96c65660-f874-4ca8-8a36-1f2a82ee5c0d)
+# RESULT 
+By using visual elements like charts, graphs, etc, to visualization a data
